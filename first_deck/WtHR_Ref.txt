@@ -1,0 +1,8 @@
+Women,  Weigh Status,		Men
+<.35,	Abnormally Slim to Underweight,	<.35
+.35-.42,	Extremely Slim,	.35-.43
+.42-.46,	Healthy,	.43-.46
+.46-.49,	Healthy Normal Weight,	.46-.53
+.49-.54,	Overweight,	.53-.58
+.54-.58,	Seriously Overweight/Obese,	.58-.63
+>.58,	Highly Obese,	>.63
