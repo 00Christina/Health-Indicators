@@ -41,9 +41,9 @@ The waist-to-height ratio would reduce misclassification of individuals with gre
 
 ## Using the Health Indicators Application
 
-You can input your height, weight, waist, and gender into the application to determine your BMI and your waist-to-height ratio, as well as see where you fall within the ranges for each. This application may be useful for persons age 16 and older who are not pregnant, as children and pregnant women have their own particular ranges for healthy weights. Given their simplicity, these methods are limited in their usefulness as a personal indicator of health, but do provide insights when measures across populations as a whole. As always, it is important to talk with your doctor about the implications of these numbers and what they mean for your individual health.
+You can input your height, weight, waist, and gender into the application to determine your BMI and your waist-to-height ratio, as well as see where you fall within the ranges for each. This application may be useful for persons age 16 and older who are not pregnant, as children and pregnant women have their own particular ranges for healthy weights. Given their simplicity, these methods are limited in their usefulness as a personal indicator of health, but do provide insights when measures across populations as a whole. As always, it is important to talk with your doctor about the implications of these numbers and what they mean for your health.
 
-##### Sources
+###### Sources
 
 - "About Adult BMI," Division of Nutrition, Physical Activity, and Obesity, CDC,  http://www.cdc.gov/healthyweight/assessing/bmi/adult_bmi/
 - Sarah Knapton, "Piece of String Better than BMI for Checking Body Fat," The Telegraph, May 9, 2015, http://www.telegraph.co.uk/news/science/science-news/11592897/Piece-of-string-better-than-BMI-for-checking-body-fat.html
